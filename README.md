@@ -16,6 +16,7 @@ git commit -m "you can write any thing"
 git log
 # Create a New Branch:
 git branch <branch-name>
+
 # Switch to a Branch:
 git checkout <branch-name>
 # Merge a Branch:
