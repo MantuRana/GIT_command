@@ -1,5 +1,5 @@
 # GIT_command
-# git basic command for begginer
+# 👨‍💻git basic command for begginer👨‍💻
 # Initialize a Git Repository:
 git init
 # Clone a Repository:
@@ -21,6 +21,7 @@ git branch "branch-name"
 git checkout "branch-name"
 # Merge a Branch:
 git checkout "branch-you-want-to-merge-into"
+#
 git merge <branch-you-want-to-merge>
 # Push Changes to Remote Repository:
 git push origin <branch-name>
@@ -28,6 +29,7 @@ git push origin <branch-name>
 git pull
 # Delete a Branch:
 git branch -d <branch-name>    # Delete a local branch
+#
 git push origin --delete <branch-name>    # Delete a remote branch
 
 
