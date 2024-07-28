@@ -11,7 +11,7 @@ git add <file>    # Add a specific file
 #
 git add .         # Add all changes in the current directory
 # Commit Changes:
-git commit -m "you can write any thing"
+git commit -m "you can write Anything"
 # View Commit History:
 git log
 # Create a New Branch:
