@@ -15,12 +15,12 @@ git commit -m "you can write any thing"
 # View Commit History:
 git log
 # Create a New Branch:
-git branch <branch-name>
+git branch "branch-name"
 
 # Switch to a Branch:
-git checkout <branch-name>
+git checkout "branch-name"
 # Merge a Branch:
-git checkout <branch-you-want-to-merge-into>
+git checkout "branch-you-want-to-merge-into"
 git merge <branch-you-want-to-merge>
 # Push Changes to Remote Repository:
 git push origin <branch-name>
