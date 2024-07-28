@@ -8,6 +8,7 @@ git clone https://github.com/user/repository.git
 git status
 # Stage Changes:
 git add <file>    # Add a specific file
+#
 git add .         # Add all changes in the current directory
 # Commit Changes:
 git commit -m "you can write any thing"
