@@ -32,6 +32,6 @@ git branch -d <branch-name>    # Delete a local branch
 #
 git push origin --delete <branch-name>    # Delete a remote branch
 
-
+![WhatsApp Image 2024-08-18 at 10 53 04_750e9f2e](https://github.com/user-attachments/assets/41709b90-04ee-4b28-b38b-d39ca8c0d1ae)
 
 ![git1](https://github.com/user-attachments/assets/129f2efc-fed6-4c10-9b7c-3666feadb14d) ![git2](https://github.com/user-attachments/assets/491277fa-8abe-4f7d-8d98-1920b65e636a)
